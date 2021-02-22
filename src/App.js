@@ -27,7 +27,7 @@ function App() {
 
 
   return (
-    <div >
+    <div className="container" >
       {weather && (
         <div >
           <div className="search">
